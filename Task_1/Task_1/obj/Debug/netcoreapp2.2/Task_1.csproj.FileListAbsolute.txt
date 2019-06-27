@@ -1,0 +1,14 @@
+E:\Task Learning\Task_1\Task_1\bin\Debug\netcoreapp2.2\Task_1.deps.json
+E:\Task Learning\Task_1\Task_1\bin\Debug\netcoreapp2.2\Task_1.runtimeconfig.json
+E:\Task Learning\Task_1\Task_1\bin\Debug\netcoreapp2.2\Task_1.runtimeconfig.dev.json
+E:\Task Learning\Task_1\Task_1\bin\Debug\netcoreapp2.2\Task_1.dll
+E:\Task Learning\Task_1\Task_1\bin\Debug\netcoreapp2.2\Task_1.pdb
+E:\Task Learning\Task_1\Task_1\obj\Debug\netcoreapp2.2\Task_1.csprojAssemblyReference.cache
+E:\Task Learning\Task_1\Task_1\obj\Debug\netcoreapp2.2\Task_1.csproj.CoreCompileInputs.cache
+E:\Task Learning\Task_1\Task_1\obj\Debug\netcoreapp2.2\Task_1.RazorAssemblyInfo.cache
+E:\Task Learning\Task_1\Task_1\obj\Debug\netcoreapp2.2\Task_1.RazorAssemblyInfo.cs
+E:\Task Learning\Task_1\Task_1\obj\Debug\netcoreapp2.2\Task_1.AssemblyInfoInputs.cache
+E:\Task Learning\Task_1\Task_1\obj\Debug\netcoreapp2.2\Task_1.AssemblyInfo.cs
+E:\Task Learning\Task_1\Task_1\obj\Debug\netcoreapp2.2\Task_1.RazorTargetAssemblyInfo.cache
+E:\Task Learning\Task_1\Task_1\obj\Debug\netcoreapp2.2\Task_1.dll
+E:\Task Learning\Task_1\Task_1\obj\Debug\netcoreapp2.2\Task_1.pdb
